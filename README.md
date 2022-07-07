@@ -12,3 +12,4 @@
 * Project presented on: May 2020
 
 ![forecast_table](https://user-images.githubusercontent.com/46803169/177681551-cfa5594d-75e7-4d86-8ac4-5196bd8a4ae7.png)
+![tableauforecast](https://user-images.githubusercontent.com/46803169/177682461-c9cf5ea8-0ec4-498e-87ff-88afd28e5e00.png)
