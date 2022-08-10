@@ -23,3 +23,4 @@
 * Descriptive analysis.
 * Software: Python 3 with Jupyter notebooks using Plotly and Pandas libraries.
 * Analisis include: Data manipulation, plotting, USA states(localization and conversion), and exploration. 
+![Editedmap.png]
