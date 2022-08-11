@@ -31,3 +31,4 @@
 * Replicate and modify the code for creating a simple calculator app for android.
 * The purpose of the project is to develop profiency in python apps development.
 * Software: Python 3.9.7 using Pycharn (IDE) Runtime version: 17.0.3+7-b469.32 amd64, and Kivy 2.1.0 Library.
+* ![NeuralCalc](https://user-images.githubusercontent.com/46803169/184059121-afa20449-1f44-4c71-a21f-50c32a795a04.png)
