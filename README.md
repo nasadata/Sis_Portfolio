@@ -28,7 +28,7 @@
 # [Project 3: Building a simple calculator app using Python3 with Kivy Library]
 
 * Source: https://www.youtube.com/watch?v=zk0MeJ7YIMc (Channel: NeuralNine)
-* * Replicate and modify the code for customizing screen size and appearance for the android app.
+* Replicate and modify the code for customizing screen size and appearance for the android app.
 * The purpose of the project is to develop profiency in python apps development.
 * Software: Python 3.9.7 using Pycharn (IDE) Runtime version: 17.0.3+7-b469.32 amd64, and Kivy 2.1.0 Library.
 * ![NeuralCalc](https://user-images.githubusercontent.com/46803169/184059121-afa20449-1f44-4c71-a21f-50c32a795a04.png)
