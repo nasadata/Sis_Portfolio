@@ -22,7 +22,7 @@
 # [Project 2: Build a USA geomap for variables "total sales" using Superstore dataset Sales 2015-2018]
 
 * Data source: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting 
-* Dataset "train.csv": build the mapping features to create U.S. states overview. 
+* Dataset "train.csv": Build the mapping features to create U.S. states map overview. 
 * Descriptive analysis.
 * Software: Python 3 with Jupyter notebooks using Plotly and Pandas libraries.
 * Analisis include: Data manipulation, plotting, USA states(localization and conversion), and exploration.
