@@ -24,3 +24,10 @@
 * Software: Python 3 with Jupyter notebooks using Plotly and Pandas libraries.
 * Analisis include: Data manipulation, plotting, USA states(localization and conversion), and exploration. 
 ![Editedmap](https://user-images.githubusercontent.com/46803169/183792393-42b8f4c9-964d-4b23-94a7-a3d56a98babd.png)
+
+# [Project 3: Building a simple calculator app using Python3 with Kivy Library]
+
+* Source: https://www.youtube.com/watch?v=zk0MeJ7YIMc (Channel: NeuralNine)
+* Replicate and modify the code for creating a simple calculator app for android.
+* The purpose of the project is to develop profiency in python apps development.
+* Software: Python 3.9.7 using Pycharn (IDE) Runtime version: 17.0.3+7-b469.32 amd64, and Kivy 2.1.0 Library.
