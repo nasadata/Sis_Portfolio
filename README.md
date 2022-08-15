@@ -25,7 +25,7 @@
 * Dataset "train.csv": Build the mapping features to create U.S. states map overview. 
 * Descriptive analysis.
 * Software: Python 3 with Jupyter notebooks using Plotly and Pandas libraries.
-* Analisis include: Data manipulation, plotting, USA states(localization and conversion), and exploration.
+* Analysis include: Data manipulation, plotting, USA states(localization and conversion), and exploration.
 
 ![Editedmap](https://user-images.githubusercontent.com/46803169/183792393-42b8f4c9-964d-4b23-94a7-a3d56a98babd.png)
 
