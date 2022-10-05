@@ -43,4 +43,4 @@
  * Input variables: Face value, coupon rate, market rate, years to maturity, payments per year.
  * Outputs: Annual coupon payment, semiannual market rate, bond present value, total bond value.
  
-  ![Assigment 2 B](https://user-images.githubusercontent.com/46803169/193960604-ca444a0e-ec3c-4d74-9c69-66f7ae0d3f79.png)
+   ![Assigment 2 B](https://user-images.githubusercontent.com/46803169/193960604-ca444a0e-ec3c-4d74-9c69-66f7ae0d3f79.png)
