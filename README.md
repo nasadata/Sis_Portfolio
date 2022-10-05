@@ -38,7 +38,9 @@
   ![NeuralCalc](https://user-images.githubusercontent.com/46803169/184059121-afa20449-1f44-4c71-a21f-50c32a795a04.png)
   
  # [Project 4: Develope a Bond calculator using Python3 with pycharm IDE]
+ 
  * Develope a calculator that can process different bond conditions. 
  * Variables: Face value, coupon rate, market rate, years to maturity, payments per year.
  * Outputs: Annual coupon payment, semiannual market rate, bond present value, total bond value.
+ 
   ![Assigment 2 B](https://user-images.githubusercontent.com/46803169/193960604-ca444a0e-ec3c-4d74-9c69-66f7ae0d3f79.png)
